@@ -22,8 +22,8 @@ I am a second-year Master’s student at the School of Remote Sensing and Inform
 I am always open to collaboration and discussion in these areas, so please don’t hesitate to [contact me](mailto:shaochengyan@whu.edu.cn) if you are interested.
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉🎉 One paper is accepted **<span style="color:red">TGRS</span>** (**IF=7.5**)!
-- *2024.07*: &nbsp;🎉🎉 One paper is accepted **<a href="https://eccv2024.ecva.net/" style="color:red">ECCV 2024</a>**!
+- *2024.09*: &nbsp;🎉🎉 One paper is accepted by **<span style="color:red">TGRS</span>** (**IF=7.5**)!
+- *2024.07*: &nbsp;🎉🎉 One paper is accepted by **<a href="https://eccv2024.ecva.net/" style="color:red">ECCV 2024</a>**!
 - *2024.07*: &nbsp;🎉🎉 My homepage is created!
 
 # 📝 Publications 
