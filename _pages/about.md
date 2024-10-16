@@ -38,11 +38,12 @@ I am always open to collaboration and discussion in these areas, so please don�
   **<span style="color:red">Shaocheng Yan</span>**,  Pengcheng Shi,  Jiayuan Li  
   *European Conference on Computer Vision (ECCV)*, 2024
   
+# 🎖 Honors and Awards
+- *2022.08*, National First Prize (Champion), China University Robotics Innovation Competition  
+- *2020.12*, First Prize, 11th National College Student Mathematics Competition (Non-Math Major Category)
+
 
 # 📖 Educations
 - *2023.09 - Present*, M.S. in Geomatics Engineering, School of Remote Sensing and Information Engineering, Wuhan University
 - *2019.09 - 2023.06*, B.S. in Artificial Intelligence, School of Electronic and Information Engineering, Southwest Jiaotong University
 
-# 🎖 Honors and Awards
-- *2022.08*, National First Prize (Champion), China University Robotics Innovation Competition  
-- *2020.12*, First Prize, 11th National College Student Mathematics Competition (Non-Math Major Category)
