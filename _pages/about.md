@@ -24,20 +24,20 @@ I am always open to collaboration and discussion in these areas, so please don�
 > email: shaochengyan@whu.edu.cn
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉🎉 One paper is accepeted <span style="color:red">TGRS</span> (**IF=7.5**)!
-- *2024.07*: &nbsp;🎉🎉 One paper is accepeted <span style="color:red">ECCV 2024</span>!
+- *2024.09*: &nbsp;🎉🎉 One paper is accepted **<span style="color:red">TGRS</span>** (**IF=7.5**)!
+- *2024.07*: &nbsp;🎉🎉 One paper is accepted **<a href="https://eccv2024.ecva.net/" style="color:red">ECCV 2024</a>**!
 - *2024.07*: &nbsp;🎉🎉 My homepage is created!
 
 # 📝 Publications 
 
 - **Proxy and Cross-Stripes Integration Transformer for Remote Sensing Image Dehazing**  
   [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10677537) [Code](https://github.com/SmileShaun/PCSformer) [Hazy-LoveDA Dataset](https://huggingface.co/datasets/SmileShaun/Hazy-LoveDA) [Hazy-DIOR Dataset](https://huggingface.co/datasets/SmileShaun/Hazy-DIOR)  
-  Xiaozhe Zhang, Fengying Xie, Haidong Ding, <span style="color:red">Shaocheng Yan</span>, Zhenwei Shi  
+  Xiaozhe Zhang, Fengying Xie, Haidong Ding, **<span style="color:red">Shaocheng Yan</span>**, Zhenwei Shi  
   *IEEE Transactions on Geoscience and Remote Sensing (TGRS)*, 2024
 
 - **ML-SemReg: Boosting Point Cloud Registration with Multi-level Semantic Consistency**  
   [PDF](https://arxiv.org/pdf/2407.09862) [Code](https://github.com/Laka-3DV/ML-SemReg)  
-  <span style="color:red">Shaocheng Yan</span>,  Pengcheng Shi,  Jiayuan Li  
+  **<span style="color:red">Shaocheng Yan</span>**,  Pengcheng Shi,  Jiayuan Li  
   *European Conference on Computer Vision (ECCV)*, 2024
   
 
@@ -45,3 +45,6 @@ I am always open to collaboration and discussion in these areas, so please don�
 - *2023.09 - Present*, M.S. in Geomatics Engineering, School of Remote Sensing and Information Engineering, Wuhan University
 - *2019.09 - 2023.06*, B.S. in Artificial Intelligence, School of Electronic and Information Engineering, Southwest Jiaotong University
 
+# 🎖 Honors and Awards
+- *2022.08*, National First Prize (Champion), China University Robotics Innovation Competition  
+- *2020.12*, First Prize, 11th National College Student Mathematics Competition (Non-Math Major Category)
