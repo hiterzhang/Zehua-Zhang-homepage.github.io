@@ -29,12 +29,12 @@ I am always open to collaboration and discussion in these areas, so please don‚Ä
 # üìù Publications 
 
 - **Proxy and Cross-Stripes Integration Transformer for Remote Sensing Image Dehazing**  
-  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10677537) [Code](https://github.com/SmileShaun/PCSformer) [Hazy-LoveDA Dataset](https://huggingface.co/datasets/SmileShaun/Hazy-LoveDA) [Hazy-DIOR Dataset](https://huggingface.co/datasets/SmileShaun/Hazy-DIOR)  
+  [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10677537)] [[Code](https://github.com/SmileShaun/PCSformer)] [[Hazy-LoveDA Dataset](https://huggingface.co/datasets/SmileShaun/Hazy-LoveDA)] [[Hazy-DIOR Dataset](https://huggingface.co/datasets/SmileShaun/Hazy-DIOR)]  
   Xiaozhe Zhang, Fengying Xie, Haidong Ding, **<span style="color:red">Shaocheng Yan</span>**, Zhenwei Shi  
   *IEEE Transactions on Geoscience and Remote Sensing (TGRS)*, 2024
 
 - **ML-SemReg: Boosting Point Cloud Registration with Multi-level Semantic Consistency**  
-  [PDF](https://arxiv.org/pdf/2407.09862) [Code](https://github.com/Laka-3DV/ML-SemReg)  
+  [[PDF](https://arxiv.org/pdf/2407.09862)] [[Code](https://github.com/Laka-3DV/ML-SemReg)]  
   **<span style="color:red">Shaocheng Yan</span>**,  Pengcheng Shi,  Jiayuan Li  
   *European Conference on Computer Vision (ECCV)*, 2024
   
