@@ -19,9 +19,7 @@ redirect_from:
 
 I am a second-year Master’s student at the School of Remote Sensing and Information Engineering, Wuhan University, under the supervision of Prof. [Jiayuan Li](https://ljy-rs.github.io/web/). My research focuses on key challenges in robotics, including SLAM, 3D reconstruction, pose estimation, and point cloud registration, with a particular emphasis on their applications in mixed reality and robotics.
 
-I am always open to collaboration and discussion in these areas, so please don’t hesitate to contact me if you are interested.
-
-> email: shaochengyan@whu.edu.cn
+I am always open to collaboration and discussion in these areas, so please don’t hesitate to [contact me](mailto:shaochengyan@whu.edu.cn) if you are interested.
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 One paper is accepted **<span style="color:red">TGRS</span>** (**IF=7.5**)!
