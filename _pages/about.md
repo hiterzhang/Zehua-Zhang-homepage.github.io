@@ -21,6 +21,8 @@ I am a second-year Master’s student at the School of Remote Sensing and Inform
 
 I am always open to collaboration and discussion in these areas, so please don’t hesitate to contact me if you are interested.
 
+> email: shaochengyan@whu.edu.cn
+
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 One paper is accepeted <span style="color:red">TGRS</span> (**IF=7.5**)!
 - *2024.07*: &nbsp;🎉🎉 One paper is accepeted <span style="color:red">ECCV 2024</span>!
@@ -35,10 +37,11 @@ I am always open to collaboration and discussion in these areas, so please don�
 
 - **ML-SemReg: Boosting Point Cloud Registration with Multi-level Semantic Consistency**  
   [PDF](https://arxiv.org/pdf/2407.09862) [Code](https://github.com/Laka-3DV/ML-SemReg)  
-  <span style="color:red">Shaocheng Yan</span>,  Pengcheng Shi,  Jiayuan Li
+  <span style="color:red">Shaocheng Yan</span>,  Pengcheng Shi,  Jiayuan Li  
   *European Conference on Computer Vision (ECCV)*, 2024
   
 
 # 📖 Education
-- *2023.06 - Present*, M.S. in Geomatics Engineering, School of Remote Sensing and Information Engineering, Wuhan University
+- *2023.09 - Present*, M.S. in Geomatics Engineering, School of Remote Sensing and Information Engineering, Wuhan University
 - *2019.09 - 2023.06*, B.S. in Artificial Intelligence, School of Electronic and Information Engineering, Southwest Jiaotong University
+
