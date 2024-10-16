@@ -17,6 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+
+# 👋 About Me
+
 I am a second-year Master’s student at the School of Remote Sensing and Information Engineering, Wuhan University, under the supervision of Prof. [Jiayuan Li](https://ljy-rs.github.io/web/). My research focuses on key challenges in robotics, including SLAM, 3D reconstruction, pose estimation, and point cloud registration, with a particular emphasis on their applications in robotics.
 
 I am always open to collaboration and discussion in these areas, so please don’t hesitate to [contact me](mailto:shaochengyan@whu.edu.cn) if you are interested.
@@ -39,8 +42,8 @@ I am always open to collaboration and discussion in these areas, so please don�
   *European Conference on Computer Vision (ECCV)*, 2024
   
 # 🎖 Honors and Awards
-- *2022.08*, National First Prize (Champion), China University Robotics Innovation Competition  
-- *2020.12*, First Prize, 11th National College Student Mathematics Competition (Non-Math Major Category)
+- *2022.08*, **<span style="color:red">National First Prize (Champion)</span>**, China University Robotics Innovation Competition  
+- *2020.12*, **<span style="color:red">First Prize</span>**, 11th National College Student Mathematics Competition (Non-Math Major Category)
 
 
 # 📖 Educations
