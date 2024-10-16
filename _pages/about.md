@@ -39,7 +39,7 @@ I am always open to collaboration and discussion in these areas, so please don�
   *European Conference on Computer Vision (ECCV)*, 2024
   
 
-# 📖 Education
+# 📖 Educations
 - *2023.09 - Present*, M.S. in Geomatics Engineering, School of Remote Sensing and Information Engineering, Wuhan University
 - *2019.09 - 2023.06*, B.S. in Artificial Intelligence, School of Electronic and Information Engineering, Southwest Jiaotong University
 
