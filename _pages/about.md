@@ -25,11 +25,17 @@ I am a second-year Master’s student at the School of Remote Sensing and Inform
 I am always open to collaboration and discussion in these areas, so please don’t hesitate to [contact me](mailto:shaochengyan@whu.edu.cn) if you are interested.
 
 # 🔥 News
+- *2024.11*: &nbsp;🎉🎉 One paper is accepted by **<span style="color:red">RAL</span>**!
 - *2024.09*: &nbsp;🎉🎉 One paper is accepted by **<span style="color:red">TGRS</span>** (**IF=7.5**)!
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by **<a href="https://eccv2024.ecva.net/" style="color:red">ECCV 2024</a>**!
 - *2024.07*: &nbsp;🎉🎉 My homepage is created!
 
 # 📝 Publications 
+- **RANSAC Back to SOTA: A Two-stage Consensus Filtering for Real-time 3D Registration**  
+  [[PDF](https://arxiv.org/abs/2410.15682)] [[Code](https://github.com/ShiPC-AI/TCF)]  
+  Pengcheng Shi, **<span style="color:red">Shaocheng Yan</span>**, Yilin Xiao, Xinyi Liu, Yongjun Zhang, Jiayuan Li  
+  *IEEE Robotics and Automation Letters (RA-L)*, 2024
+
 
 - **Proxy and Cross-Stripes Integration Transformer for Remote Sensing Image Dehazing**  
   [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10677537)] [[Code](https://github.com/SmileShaun/PCSformer)] [[Hazy-LoveDA Dataset](https://huggingface.co/datasets/SmileShaun/Hazy-LoveDA)] [[Hazy-DIOR Dataset](https://huggingface.co/datasets/SmileShaun/Hazy-DIOR)]  
@@ -49,4 +55,3 @@ I am always open to collaboration and discussion in these areas, so please don�
 # 📖 Educations
 - *2023.09 - Present*, M.S. in Geomatics Engineering, School of Remote Sensing and Information Engineering, Wuhan University
 - *2019.09 - 2023.06*, B.S. in Artificial Intelligence, School of Electronic and Information Engineering, Southwest Jiaotong University
-
