@@ -22,15 +22,14 @@ redirect_from:
 
 I am a second-year Master’s student at the School of Remote Sensing and Information Engineering, Wuhan University, under the supervision of Prof. [Jiayuan Li](https://ljy-rs.github.io/web/). My research focuses on key challenges in robotics, including SLAM, 3D reconstruction, pose estimation, and point cloud registration, with a particular emphasis on their applications in robotics.
 
-I am always open to collaboration and discussion in these areas, so please don’t hesitate to [contact me](mailto:shaochengyan@whu.edu.cn) if you are interested.
-
+I am always open to collaboration and discussion in these areas, so please don’t hesitate to [contact me](mailto:shaochengyan@whu.edu.cn) (shaochengyan@whu.edu.cn) if you are interested.
 
 
 
 # 🔥 News
 
 - *2025.02*:  🎉🎉 Our paper HeMoRa(zh: 赫默拉) is accepted by **<a href="https://cvpr.thecvf.com/Conferences/2025" style="background: linear-gradient(90deg, #007bff, #00cc99, #9933ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">CVPR 2025</a>**!
-- *2024.11*:  🎉🎉 One paper is accepted by **<span style="background: linear-gradient(90deg, #007bff, #00cc99, #9933ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">RAL 2024</span>**!
+- *2024.11*:  🎉🎉 One paper is accepted by **<span style="background: linear-gradient(90deg, #007bff, #00cc99, #9933ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">RA-L 2024</span>**!
 - *2024.09*:  🎉🎉 One paper is accepted by <span style="background: linear-gradient(90deg, #007bff, #00cc99, #9933ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">TGRS 2024</span>!
 - *2024.07*:  🎉🎉 One paper is accepted by **<a href="https://eccv2024.ecva.net/" style="background: linear-gradient(90deg, #007bff, #00cc99, #9933ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">ECCV 2024</a>**!
 - *2024.07*:  🎉🎉 My homepage is created!
