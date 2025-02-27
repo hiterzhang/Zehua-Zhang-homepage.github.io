@@ -45,9 +45,10 @@ I am always open to collaboration and discussion in these areas, so please don‚Ä
 
 [HeMoRa: Unsupervised Heuristic Consensus Sampling for Robust Point Cloud Registration]()
 
+
 **<span style="background: linear-gradient(90deg, #00b7b7, #8a2be2, #ff4500); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">Shaocheng Yan</span>**, [<span style="text-decoration: none; color: inherit;">Yiming Wang</span>](https://yimingwangmingle.github.io/bio/), [<span style="text-decoration: none; color: inherit;">Kaiyan Zhao</span>](https://kaiyanzhaophoenix.github.io/bio/), [<span style="text-decoration: none; color: inherit;">Pengcheng Shi</span>](https://orcid.org/0000-0003-2504-9890), [<span style="text-decoration: none; color: inherit;">Zhenjun Zhao</span>](https://ericzzj1989.github.io/), [<span style="text-decoration: none; color: inherit;">Yongjun Zhang</span>](https://skyearth.org/zhangyj/), [<span style="text-decoration: none; color: inherit;">Jiayuan Li</span>](https://ljy-rs.github.io/web/)
 
-*IEEE/CVF Conference on Computer Vision and Pattern Recognition (<span style="background: linear-gradient(90deg, #007bff, #00cc99, #9933ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">CVPR 2025</span>)*
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition* (<span style="background: linear-gradient(90deg, #007bff, #00cc99, #9933ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">CVPR 2025</span>)
 
 </div></div>
 
@@ -59,7 +60,7 @@ I am always open to collaboration and discussion in these areas, so please don‚Ä
 
 Pengcheng Shi, **<span style="background: linear-gradient(90deg, #00b7b7, #8a2be2, #ff4500); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">Shaocheng Yan</span>**, Yilin Xiao, Xinyi Liu, Yongjun Zhang, Jiayuan Li
 
-*IEEE Robotics and Automation Letters (<span style="background: linear-gradient(90deg, #007bff, #00cc99, #9933ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">RA-L</span>)*, 2024
+*IEEE Robotics and Automation Letters* (<span style="background: linear-gradient(90deg, #007bff, #00cc99, #9933ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">RA-L 2024</span>)
 
 </div></div>
 
@@ -71,7 +72,7 @@ Pengcheng Shi, **<span style="background: linear-gradient(90deg, #00b7b7, #8a2be
 
 Xiaozhe Zhang, Fengying Xie, Haidong Ding, **<span style="background: linear-gradient(90deg, #00b7b7, #8a2be2, #ff4500); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">Shaocheng Yan</span>**, Zhenwei Shi
 
-*IEEE Transactions on Geoscience and Remote Sensing (<span style="background: linear-gradient(90deg, #007bff, #00cc99, #9933ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">TGRS</span>)*, 2024
+*IEEE Transactions on Geoscience and Remote Sensing* (<span style="background: linear-gradient(90deg, #007bff, #00cc99, #9933ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">TGRS 2024</span>)
 
 </div></div>
 
@@ -83,14 +84,16 @@ Xiaozhe Zhang, Fengying Xie, Haidong Ding, **<span style="background: linear-gra
 
 **<span style="background: linear-gradient(90deg, #00b7b7, #8a2be2, #ff4500); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">Shaocheng Yan</span>**, Pengcheng Shi, Jiayuan Li
 
-*European Conference on Computer Vision (<span style="background: linear-gradient(90deg, #007bff, #00cc99, #9933ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">ECCV 2024</span>)*
+*European Conference on Computer Vision* (<span style="background: linear-gradient(90deg, #007bff, #00cc99, #9933ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">ECCV 2024</span>)
 
 </div></div>
  
 # üèÜ Honors and Awards
 
+- *2024.11*, **<span style="background: linear-gradient(90deg, #00ffff, #ff00ff, #0033ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">National Second Prize</span>**, China Graduate Mathematical Modeling Contest
 - *2022.08*, **<span style="background: linear-gradient(90deg, #00ffff, #ff00ff, #0033ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">National First Prize (Champion)</span>**, China University Robotics Innovation Competition  
 - *2020.12*, **<span style="background: linear-gradient(90deg, #00ffff, #ff00ff, #0033ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">First Prize</span>**, 11th National College Student Mathematics Competition (Non-Math Major Category)
+
 
 # üéì Educations
 - *2023.09 - Present*, M.S. in Geomatics Engineering, School of Remote Sensing and Information Engineering, Wuhan University
