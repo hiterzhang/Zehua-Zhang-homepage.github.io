@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shaocheng Yan"
-# description              : ""
+# description              : "shaochengyan@whu.edu.cn"
 repository               : "Laka-3DV/Laka-3DV.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ google_analytics_id      :  # get google_analytics_id from https://analytics.goo
 
 # Site Author
 author:
-  name             : "Shaocheng Yan"
+  name             : "Shaocheng Yan (颜绍程)"
   avatar           : "images/cola.jpg"
   bio              : "Wuhan University"
   location         : "Wuhan, China"
