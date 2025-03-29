@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <p align="left">
-    <img src="../cola_image/00-hello.svg" alt="Github Stats" style="width: 60%;" />
+    <img src="../cola_image/00-hello.svg" alt="Github Stats" style="width: 50%;" />
 </p>
 
 
