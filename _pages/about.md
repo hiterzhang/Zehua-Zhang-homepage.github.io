@@ -26,7 +26,6 @@ redirect_from:
 
 - **Master’s Student**, Wuhan University (Advisor: [Jiayuan Li](https://ljy-rs.github.io/web/))  
 - **Research**: SLAM, 3D reconstruction, pose estimation, point cloud registration  
-- **Focus**: Robotics applications  
 - **Contact**: [shaochengyan@whu.edu.cn](mailto:shaochengyan@whu.edu.cn)  
 - **Open to collaboration**
 
