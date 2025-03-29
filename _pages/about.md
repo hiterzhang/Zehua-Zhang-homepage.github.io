@@ -18,13 +18,18 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-# 🧑‍💻 About Me
-
-I am a second-year Master’s student at the School of Remote Sensing and Information Engineering, Wuhan University, under the supervision of Prof. [Jiayuan Li](https://ljy-rs.github.io/web/). My research focuses on key challenges in robotics, including SLAM, 3D reconstruction, pose estimation, and point cloud registration, with a particular emphasis on their applications in robotics.
-
-I am always open to collaboration and discussion in these areas, so please don’t hesitate to [contact me](mailto:shaochengyan@whu.edu.cn) (shaochengyan@whu.edu.cn) if you are interested.
+<p align="center">
+        <img src="../cola_image/00-hello.svg" alt="Github Stats" />
+</p>
 
 
+🧑‍💻 About Me
+
+- **Master’s Student**, Wuhan University (Advisor: [Jiayuan Li](https://ljy-rs.github.io/web/))  
+- **Research**: SLAM, 3D reconstruction, pose estimation, point cloud registration  
+- **Focus**: Robotics applications  
+- **Contact**: [shaochengyan@whu.edu.cn](mailto:shaochengyan@whu.edu.cn)  
+- **Open to collaboration**
 
 # 🔥 News
 
