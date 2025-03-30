@@ -18,18 +18,22 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <p align="left">
-    <img src="../cola_image/00-hello.svg" alt="Github Stats" style="width: 50%;" />
+    <a href="https://github.com/Laka-3DV">
+        <!-- <img width="50%" alt="Hey, this is Laka!" src="../cola_image/00-hello.svg" style="margin-top: -100px;" /> -->
+        <!-- <img width="50%" alt="Hey, this is Laka!" src="../cola_image/00-hello.svg" style="margin-top: -0px;" /> -->
+        <img width="60%" alt="Hey, this is Laka!" src="../cola_image/00-02-hello.svg" style="margin-top: -0px;" />
+    </a>
 </p>
 
 
-🧑‍💻 About Me
+### 🧑‍💻 About Me
 
 - **Master’s Student**, Wuhan University (Advisor: [Jiayuan Li](https://ljy-rs.github.io/web/))  
 - **Research**: SLAM, 3D reconstruction, pose estimation, point cloud registration  
 - **Contact**: [shaochengyan@whu.edu.cn](mailto:shaochengyan@whu.edu.cn)  
 - **Open to collaboration**
 
-# 🔥 News
+### 🔥 News
 
 - *2025.02*:  🎉🎉 Our paper HeMoRa (zh: 赫默拉) is accepted by **<a href="https://cvpr.thecvf.com/Conferences/2025" style="background: linear-gradient(90deg, #007bff, #00cc99, #9933ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">CVPR 2025</a>**!
 - *2024.11*:  🎉🎉 One paper is accepted by **<span style="background: linear-gradient(90deg, #007bff, #00cc99, #9933ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">RA-L 2024</span>**!
@@ -39,7 +43,7 @@ redirect_from:
 
 
 
-# 📚 Publications 
+### 📚 Publications 
 
 <!-- HeMoRa -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='../paper_image_hemora.png' alt="HeMoRa" width="100%"></div></div>
@@ -90,13 +94,17 @@ Xiaozhe Zhang, Fengying Xie, Haidong Ding, **<span style="background: linear-gra
 
 </div></div>
  
-# 🏆 Honors and Awards
+### 🏆 Honors and Awards
 
 - *2024.11*, **<span style="background: linear-gradient(90deg, #00ffff, #ff00ff, #0033ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">National Second Prize</span>**, China Graduate Mathematical Modeling Contest
 - *2022.08*, **<span style="background: linear-gradient(90deg, #00ffff, #ff00ff, #0033ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">National First Prize (Champion)</span>**, China University Robotics Innovation Competition  
 - *2020.12*, **<span style="background: linear-gradient(90deg, #00ffff, #ff00ff, #0033ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">First Prize</span>**, 11th National College Student Mathematics Competition (Non-Math Major Category)
 
 
-# 🎓 Educations
+### 🎓 Educations
 - *2023.09 - Present*, M.S. in Geomatics Engineering, School of Remote Sensing and Information Engineering, Wuhan University
 - *2019.09 - 2023.06*, B.S. in Artificial Intelligence, School of Electronic and Information Engineering, Southwest Jiaotong University
+
+<p align="center">
+        <img src="../cola_image/02-wave.svg" alt="Github Stats" />
+</p>
