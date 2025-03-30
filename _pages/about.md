@@ -23,9 +23,9 @@ redirect_from:
 </div> -->
 
 
-<p align="left">
+<p align="center">
     <a href="https://github.com/Laka-3DV">
-        <img width="80%" alt="Hey, this is Laka!" src="../cola_image/04-Hey.svg" style="margin-top: -0px;" />
+        <img width="90%" alt="Hey, this is Laka!" src="../cola_image/04-Hey.svg" style="margin-top: -0px;" />
     </a>
 </p>
 
