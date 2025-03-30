@@ -17,16 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<div class="container">
-        <img src="../cola_image/04-Hey.svg" alt="Hey, this is Laka!" class="foreground" />
-</div>
 
-<!-- <p align="left">
+<!-- <div class="container">
+        <img src="../cola_image/04-Hey.svg" alt="Hey, this is Laka!" class="foreground" />
+</div> -->
+
+
+<p align="left">
     <a href="https://github.com/Laka-3DV">
-        <img width="70%" alt="Hey, this is Laka!" src="../cola_image/04-Hey.svg" style="margin-top: -0px;" />
+        <img width="80%" alt="Hey, this is Laka!" src="../cola_image/04-Hey.svg" style="margin-top: -0px;" />
     </a>
 </p>
- -->
+
 
 
 ### 🧑‍💻 About Me
