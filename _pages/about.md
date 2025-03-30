@@ -21,7 +21,7 @@ redirect_from:
     <a href="https://github.com/Laka-3DV">
         <!-- <img width="50%" alt="Hey, this is Laka!" src="../cola_image/00-hello.svg" style="margin-top: -100px;" /> -->
         <!-- <img width="50%" alt="Hey, this is Laka!" src="../cola_image/00-hello.svg" style="margin-top: -0px;" /> -->
-        <img width="60%" alt="Hey, this is Laka!" src="../cola_image/00-02-hello.svg" style="margin-top: -0px;" />
+        <img width="50%" alt="Hey, this is Laka!" src="../cola_image/00-02-hello.svg" style="margin-top: -0px;" />
     </a>
 </p>
 
@@ -104,7 +104,3 @@ Xiaozhe Zhang, Fengying Xie, Haidong Ding, **<span style="background: linear-gra
 ### 🎓 Educations
 - *2023.09 - Present*, M.S. in Geomatics Engineering, School of Remote Sensing and Information Engineering, Wuhan University
 - *2019.09 - 2023.06*, B.S. in Artificial Intelligence, School of Electronic and Information Engineering, Southwest Jiaotong University
-
-<p align="center">
-        <img src="../cola_image/02-wave.svg" alt="Github Stats" />
-</p>
