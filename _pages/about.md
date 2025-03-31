@@ -24,11 +24,18 @@ redirect_from:
 
 
 <p align="center">
-    <a href="https://github.com/Laka-3DV">
-        <img width="90%" alt="Hey, this is Laka!" src="../cola_image/04-Hey.svg" style="margin-top: -0px;" />
-    </a>
+    <!-- <a href="https://github.com/Laka-3DV"> -->
+      <img width="90%" alt="Hey, this is Laka!" src="../cola_image/04-Hey.svg" style="margin-top: -0px;" />
+    <!-- </a> -->
 </p>
 
+<!-- 
+<p align="center">
+    <a href="https://github.com/Laka-3DV">
+        <img width="90%" alt="Hey, this is Laka!" src="../cola_image/06-Hey-dynamic.gif" style="margin-top: -0px;" />
+    </a>
+</p>
+ -->
 
 
 ### 🧑‍💻 About Me

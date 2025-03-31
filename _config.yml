@@ -24,11 +24,13 @@ author:
   name             : "Shaocheng Yan (颜绍程)"
   avatar           : "images/cola.jpg"
   bio              : "Wuhan University"
-  location         : "Wuhan, China"
+  # location         : "Wuhan, China"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=2h_BHmoAAAAJ"
-  email            : "shaochengyan@whu.edu.cn"
+  # email            : "shaochengyan@whu.edu.cn"
+  email            : 
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +39,8 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  # github           : # e.g., "github username"
+  github           : "Laka-3DV"
   google_plus      :
   keybase          :
   instagram        :
