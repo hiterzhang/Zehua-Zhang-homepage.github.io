@@ -42,9 +42,13 @@ redirect_from:
 ### 🧑‍💻 About Me
 
 - **Master’s Student**, Wuhan University (Advisor: [Jiayuan Li](https://ljy-rs.github.io/web/))  
-- **Research**: SLAM, 3D reconstruction, pose estimation, point cloud registration  
+- **Research**: Point Cloud Registration, Robust Estimation, Keypoint Matching
+<!-- SLAM, 3D reconstruction, -->
+<!-- pose estimation -->
 - **Contact**: [shaochengyan@whu.edu.cn](mailto:shaochengyan@whu.edu.cn)  
-- **Open to collaboration**
+<!-- - **Open to collaboration** -->
+
+> Excited for collaboration opportunities — reach out if you have questions or want to explore!
 
 ### 🔥 News
 
@@ -55,60 +59,98 @@ redirect_from:
 - *2024.07*:  🎉🎉 My homepage is created!
 
 
+<!-- ### 📚 Publications  -->
+### 🖋️ First-Author Publications
 
-### 📚 Publications 
 
 <!-- HeMoRa -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='../paper_image_hemora.png' alt="HeMoRa" width="100%"></div></div>
+<!-- Image -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div>
+<img src='../paper_images/0003-hemora.png' alt="HeMoRa" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[HeMoRa: Unsupervised Heuristic Consensus Sampling for Robust Point Cloud Registration]()
+
+<!-- Information -->
+<a style="text-decoration: none; color: inherit;"><span style="background: linear-gradient(90deg, #ff7f50, #87cefa, #da70d6); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">HeMoRa:</span></a>
+Unsupervised Heuristic Consensus Sampling for Robust Point Cloud Registration  [[PDF]()] [[CODE](https://github.com/Laka-3DV/HeMoRa)]
 
 
-**<span style="background: linear-gradient(90deg, #00b7b7, #8a2be2, #ff4500); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">Shaocheng Yan</span>**, [<span style="text-decoration: none; color: inherit;">Yiming Wang</span>](https://yimingwangmingle.github.io/bio/), [<span style="text-decoration: none; color: inherit;">Kaiyan Zhao</span>](https://kaiyanzhaophoenix.github.io/bio/), [<span style="text-decoration: none; color: inherit;">Pengcheng Shi</span>](https://orcid.org/0000-0003-2504-9890), [<span style="text-decoration: none; color: inherit;">Zhenjun Zhao</span>](https://ericzzj1989.github.io/), [<span style="text-decoration: none; color: inherit;">Yongjun Zhang</span>](https://skyearth.org/zhangyj/), [<span style="text-decoration: none; color: inherit;">Jiayuan Li</span>](https://ljy-rs.github.io/web/)
 
-*IEEE/CVF Conference on Computer Vision and Pattern Recognition* (<span style="background: linear-gradient(90deg, #007bff, #00cc99, #9933ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">CVPR 2025</span>)
+**Shaocheng Yan**,
+<a href="https://yimingwangmingle.github.io/bio/" style="text-decoration: none; color: inherit;"><span>Yiming Wang</span></a>,
+<a href="https://kaiyanzhaophoenix.github.io/bio/" style="text-decoration: none; color: inherit;"><span>Kaiyan Zhao</span></a>,
+<a href="https://orcid.org/0000-0003-2504-9890" style="text-decoration: none; color: inherit;"><span>Pengcheng Shi</span></a>,
+<a href="https://ericzzj1989.github.io/" style="text-decoration: none; color: inherit;"><span>Zhenjun Zhao</span></a>,
+<a href="https://skyearth.org/zhangyj/" style="text-decoration: none; color: inherit;"><span>Yongjun Zhang</span></a>,
+<a href="https://ljy-rs.github.io/web/" style="text-decoration: none; color: inherit;"><span>Jiayuan Li</span></a>
 
-</div></div>
+**TL;DR:** Learning a sampling probability distribution for matches in robust estimation, no supervision and reinforcement-inspired
 
-<!-- TCF -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2024</div><img src='../paper_image_ransac.png' alt="RANSAC Back to SOTA" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[RANSAC Back to SOTA: A Two-stage Consensus Filtering for Real-time 3D Registration](https://arxiv.org/abs/2410.15682) [[Code](https://github.com/ShiPC-AI/TCF)]
+<span style="background: linear-gradient(90deg, #007bff, #00cc99, #9933ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">[CVPR 2025]</span> 
+IEEE Conference on Computer Vision and Pattern Recognition
 
-Pengcheng Shi, **<span style="background: linear-gradient(90deg, #00b7b7, #8a2be2, #ff4500); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">Shaocheng Yan</span>**, Yilin Xiao, Xinyi Liu, Yongjun Zhang, Jiayuan Li
 
-*IEEE Robotics and Automation Letters* (<span style="background: linear-gradient(90deg, #007bff, #00cc99, #9933ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">RA-L 2024</span>)
+<!-- <div style="margin: 10px;">
+        <span style="background-color: #e0e0e0; padding: 5px 10px; margin: 5px; border-radius: 5px; display: inline-block;">#point cloud registration</span>
+        <span style="background-color: #e0e0e0; padding: 5px 10px; margin: 5px; border-radius: 5px; display: inline-block;">#keypoint matching</span>
+        <span style="background-color: #e0e0e0; padding: 5px 10px; margin: 5px; border-radius: 5px; display: inline-block;">#semantic slam</span>
+</div> -->
 
-</div></div>
-
-<!-- PCSFormer -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='../paper_image_pcsformer.png' alt="PCSformer" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Proxy and Cross-Stripes Integration Transformer for Remote Sensing Image Dehazing](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10677537) [[Code](https://github.com/SmileShaun/PCSformer)] [[Hazy-LoveDA Dataset](https://huggingface.co/datasets/SmileShaun/Hazy-LoveDA)] [[Hazy-DIOR Dataset](https://huggingface.co/datasets/SmileShaun/Hazy-DIOR)]
-
-Xiaozhe Zhang, Fengying Xie, Haidong Ding, **<span style="background: linear-gradient(90deg, #00b7b7, #8a2be2, #ff4500); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">Shaocheng Yan</span>**, Zhenwei Shi
-
-*IEEE Transactions on Geoscience and Remote Sensing* (<span style="background: linear-gradient(90deg, #007bff, #00cc99, #9933ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">TGRS 2024</span>)
 
 </div></div>
 
 <!-- ML-SemReg -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='../paper_image_ml_semreg.png' alt="ML-SemReg" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='../paper_images/0001-ml_semreg.png' alt="ML-SemReg" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ML-SemReg: Boosting Point Cloud Registration with Multi-level Semantic Consistency](https://arxiv.org/pdf/2407.09862) [[Code](https://github.com/Laka-3DV/ML-SemReg)]
+<a style="text-decoration: none; color: inherit;"><span style="background: linear-gradient(90deg, #ff7f50, #87cefa, #da70d6); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">ML-SemReg:</span></a>
+Boosting Point Cloud Registration with Multi-level Semantic Consistency [[PDF](https://arxiv.org/pdf/2407.09862)] [[CODE](https://github.com/Laka-3DV/ML-SemReg)]
 
-**<span style="background: linear-gradient(90deg, #00b7b7, #8a2be2, #ff4500); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">Shaocheng Yan</span>**, Pengcheng Shi, Jiayuan Li
+**Shaocheng Yan**, 
+<a href="https://orcid.org/0000-0003-2504-9890" style="text-decoration: none; color: inherit;"><span>Pengcheng Shi</span></a>,
+<a href="https://ljy-rs.github.io/web/" style="text-decoration: none; color: inherit;"><span>Jiayuan Li</span></a>
 
-*European Conference on Computer Vision* (<span style="background: linear-gradient(90deg, #007bff, #00cc99, #9933ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">ECCV 2024</span>)
+**TL;DR:** Boosting 3D keypoint match recall using semantic labels, no learning needed and SLAM-ready
+
+<span style="background: linear-gradient(90deg, #007bff, #00cc99, #9933ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">[ECCV 2024]</span> European Conference on Computer Vision
 
 </div></div>
+
+
+### 🧩 Co-Authored Publications
+
+
+<!-- TCF -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2024</div><img src='../paper_images/0002-ransac.png' alt="RANSAC Back to SOTA" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+RANSAC Back to SOTA: A Two-stage Consensus Filtering for Real-time 3D Registration [[PDF](https://arxiv.org/abs/2410.15682)] [[Code](https://github.com/ShiPC-AI/TCF)]
+
+Pengcheng Shi, **Shaocheng Yan**, Yilin Xiao, Xinyi Liu, Yongjun Zhang, Jiayuan Li
+
+<span style="background: linear-gradient(90deg, #007bff, #00cc99, #9933ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">[RA-L 2024]</span> IEEE Robotics and Automation Letters
+
+</div></div>
+
+<!-- PCSFormer -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='../paper_images/0000-pcsformer.png' alt="PCSformer" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Proxy and Cross-Stripes Integration Transformer for Remote Sensing Image Dehazing [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10677537)] [[Code](https://github.com/SmileShaun/PCSformer)] [[Hazy-LoveDA Dataset](https://huggingface.co/datasets/SmileShaun/Hazy-LoveDA)] [[Hazy-DIOR Dataset](https://huggingface.co/datasets/SmileShaun/Hazy-DIOR)]
+
+Xiaozhe Zhang, Fengying Xie, Haidong Ding, **Shaocheng Yan**, Zhenwei Shi
+
+<span style="background: linear-gradient(90deg, #007bff, #00cc99, #9933ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">[TGRS 2024]</span>
+IEEE Transactions on Geoscience and Remote Sensing
+
+</div></div>
+
+
  
 ### 🏆 Honors and Awards
 
+- *2025.04*, **<span style="background: linear-gradient(90deg, #00ffff, #ff00ff, #0033ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">Outstanding Graduate</span>**, Class of 2025  
 - *2024.11*, **<span style="background: linear-gradient(90deg, #00ffff, #ff00ff, #0033ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">National Second Prize</span>**, China Graduate Mathematical Modeling Contest
 - *2022.08*, **<span style="background: linear-gradient(90deg, #00ffff, #ff00ff, #0033ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">National First Prize (Champion)</span>**, China University Robotics Innovation Competition  
 - *2020.12*, **<span style="background: linear-gradient(90deg, #00ffff, #ff00ff, #0033ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">First Prize</span>**, 11th National College Student Mathematics Competition (Non-Math Major Category)
