@@ -52,6 +52,7 @@ redirect_from:
 
 ### 🔥 News
 
+- *2025.06*:  🎉🎉 Our paper TurboReg is accepted by **<a href="https://iccv.thecvf.com/" style="background: linear-gradient(90deg, #007bff, #00cc99, #9933ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">ICCV 2025</a>**!
 - *2025.02*:  🎉🎉 Our paper HeMoRa (zh: 赫默拉) is accepted by **<a href="https://cvpr.thecvf.com/Conferences/2025" style="background: linear-gradient(90deg, #007bff, #00cc99, #9933ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">CVPR 2025</a>**!
 - *2024.11*:  🎉🎉 One paper is accepted by **<span style="background: linear-gradient(90deg, #007bff, #00cc99, #9933ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">RA-L 2024</span>**!
 - *2024.09*:  🎉🎉 One paper is accepted by <span style="background: linear-gradient(90deg, #007bff, #00cc99, #9933ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">TGRS 2024</span>!
@@ -61,6 +62,32 @@ redirect_from:
 
 <!-- ### 📚 Publications  -->
 ### 🖋️ First-Author Publications
+
+<!-- TurboReg -->
+<!-- Image -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div>
+<img src='../paper_images/0004-turboreg.png' alt="TurboReg" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<!-- Information -->
+<a style="text-decoration: none; color: inherit;"><span style="background: linear-gradient(90deg, #ff7f50, #87cefa, #da70d6); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">TurboReg:</span></a>
+TurboClique for Robust and Efficient Point Cloud Registration [[PDF](https://arxiv.org/pdf/2507.01439)] [[CODE](https://github.com/Laka-3DV/TurboReg)]
+
+**Shaocheng Yan**,
+<a href="https://orcid.org/0000-0003-2504-9890" style="text-decoration: none; color: inherit;"><span>Pengcheng Shi</span></a>,
+<a href="https://ericzzj1989.github.io/" style="text-decoration: none; color: inherit;"><span>Zhenjun Zhao</span></a>,
+<a href="https://ericzzj1989.github.io/" style="text-decoration: none; color: inherit;"><span>Kaixin Wang</span></a>,
+<a href="https://ericzzj1989.github.io/" style="text-decoration: none; color: inherit;"><span>Kuang Cao</span></a>,
+<a href="https://ericzzj1989.github.io/" style="text-decoration: none; color: inherit;"><span>Ji Wu</span></a>,
+<a href="https://ljy-rs.github.io/web/" style="text-decoration: none; color: inherit;"><span>Jiayuan Li</span></a>
+
+**TL;DR:** A highly efficient and robust estimator for point cloud registration (PCR), supporting both CPU and GPU platforms.
+
+<a href="https://iccv.thecvf.com/" style="background: linear-gradient(90deg, #007bff, #00cc99, #9933ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">
+[ICCV 2025]
+</a>International Conference on Computer Vision
+
+</div></div>
 
 
 <!-- HeMoRa -->
@@ -75,7 +102,6 @@ redirect_from:
 Unsupervised Heuristic Consensus Sampling for Robust Point Cloud Registration  [[PDF]()] [[CODE](https://github.com/Laka-3DV/HeMoRa)]
 
 
-
 **Shaocheng Yan**,
 <a href="https://yimingwangmingle.github.io/bio/" style="text-decoration: none; color: inherit;"><span>Yiming Wang</span></a>,
 <a href="https://kaiyanzhaophoenix.github.io/bio/" style="text-decoration: none; color: inherit;"><span>Kaiyan Zhao</span></a>,
@@ -87,8 +113,12 @@ Unsupervised Heuristic Consensus Sampling for Robust Point Cloud Registration  [
 **TL;DR:** Learning a sampling probability distribution for matches in robust estimation, no supervision and reinforcement-inspired
 
 
-<span style="background: linear-gradient(90deg, #007bff, #00cc99, #9933ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">[CVPR 2025]</span> 
-IEEE Conference on Computer Vision and Pattern Recognition
+<!-- <span style="background: linear-gradient(90deg, #007bff, #00cc99, #9933ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">[CVPR 2025]</span> 
+Computer Vision and Pattern Recognition -->
+
+<a href="https://cvpr.thecvf.com/Conferences/2025" style="background: linear-gradient(90deg, #007bff, #00cc99, #9933ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">
+[CVPR 2025]
+</a>Computer Vision and Pattern Recognition
 
 
 <!-- <div style="margin: 10px;">
@@ -113,7 +143,13 @@ Boosting Point Cloud Registration with Multi-level Semantic Consistency [[PDF](h
 
 **TL;DR:** Boosting 3D keypoint match recall using semantic labels, no learning needed and SLAM-ready
 
-<span style="background: linear-gradient(90deg, #007bff, #00cc99, #9933ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">[ECCV 2024]</span> European Conference on Computer Vision
+<!-- <span style="background: linear-gradient(90deg, #007bff, #00cc99, #9933ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">[ECCV 2024]</span> European Conference on Computer Vision -->
+
+
+<a href="https://eccv2024.ecva.net/" style="background: linear-gradient(90deg, #007bff, #00cc99, #9933ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">
+[ECCV 2024]
+</a> European Conference on Computer Vision
+
 
 </div></div>
 
