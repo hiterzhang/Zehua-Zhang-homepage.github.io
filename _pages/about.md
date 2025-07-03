@@ -71,7 +71,7 @@ redirect_from:
 
 <!-- Information -->
 <a style="text-decoration: none; color: inherit;"><span style="background: linear-gradient(90deg, #ff7f50, #87cefa, #da70d6); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">TurboReg:</span></a>
-TurboClique for Robust and Efficient Point Cloud Registration [[PDF](https://arxiv.org/pdf/2507.01439)] [[CODE](https://github.com/Laka-3DV/TurboReg)]
+TurboClique for Robust and Efficient Point Cloud Registration [[PDF](https://arxiv.org/pdf/2507.01439)] [[CODE](https://github.com/Laka-3DV/TurboReg)] [[BIB](https://arxiv.org/bibtex/2507.01439)]
 
 **Shaocheng Yan**,
 <a href="https://orcid.org/0000-0003-2504-9890" style="text-decoration: none; color: inherit;"><span>Pengcheng Shi</span></a>,
@@ -99,7 +99,7 @@ TurboClique for Robust and Efficient Point Cloud Registration [[PDF](https://arx
 
 <!-- Information -->
 <a style="text-decoration: none; color: inherit;"><span style="background: linear-gradient(90deg, #ff7f50, #87cefa, #da70d6); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">HeMoRa:</span></a>
-Unsupervised Heuristic Consensus Sampling for Robust Point Cloud Registration  [[PDF]()] [[CODE](https://github.com/Laka-3DV/HeMoRa)]
+Unsupervised Heuristic Consensus Sampling for Robust Point Cloud Registration  [[PDF]()] [[CODE](https://github.com/Laka-3DV/HeMoRa)] [[BIB](https://scholar.googleusercontent.com/scholar.bib?q=info:tjG9h2tNY34J:scholar.google.com/&output=citation&scisdr=ChZh9TUgAQPWeildyYkFYPqPEfhkkme8QVI:AAZF9b8AAAAAaGX_r1LJKSPvAWG5S6a6WVKMKv4&scisig=AAZF9b8AAAAAaGX_r6PIthz9uZJK1uTcii3gobM&scisf=4&ct=citation&cd=-1&hl=en)]
 
 
 **Shaocheng Yan**,
@@ -135,7 +135,8 @@ Computer Vision and Pattern Recognition -->
 <div class='paper-box-text' markdown="1">
 
 <a style="text-decoration: none; color: inherit;"><span style="background: linear-gradient(90deg, #ff7f50, #87cefa, #da70d6); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">ML-SemReg:</span></a>
-Boosting Point Cloud Registration with Multi-level Semantic Consistency [[PDF](https://arxiv.org/pdf/2407.09862)] [[CODE](https://github.com/Laka-3DV/ML-SemReg)]
+Boosting Point Cloud Registration with Multi-level Semantic Consistency [[PDF](https://arxiv.org/pdf/2407.09862)] [[CODE](https://github.com/Laka-3DV/ML-SemReg)] [[BIB](https://scholar.googleusercontent.com/scholar.bib?q=info:PcPA4MCDeisJ:scholar.google.com/&output=citation&scisdr=ChZh9TUgAQPWeildij_UWKX_IU6zTjBC1rk:AAZF9b8AAAAAaGX_7OQYEXyfMddul_FEzrkWTtY&scisig=AAZF9b8AAAAAaGX_7NAzXL36juNT2nrsHq9JKZQ&scisf=4&ct=citation&cd=-1&hl=en)]
+
 
 **Shaocheng Yan**, 
 <a href="https://orcid.org/0000-0003-2504-9890" style="text-decoration: none; color: inherit;"><span>Pengcheng Shi</span></a>,
