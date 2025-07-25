@@ -26,7 +26,7 @@ redirect_from:
 <p align="center">
     <!-- <a href="https://github.com/Laka-3DV"> -->
       <!-- <img width="90%" alt="Hey, this is Laka!" src="../cola_image/04-Hey.svg" style="margin-top: -0px;" /> -->
-      <img width="90%" alt="Hey, this is Laka!" src="../cola_image/07-Hey.png" style="margin-top: -0px;" />
+      <img width="100%" alt="Hey, this is Laka!" src="../cola_image/07-Hey.png" style="margin-top: -0px;" />
     <!-- </a> -->
 </p>
 
@@ -52,8 +52,9 @@ redirect_from:
 
 ### 🔥 News
 
-- *2025.06*:  🎉🎉 Our paper TurboReg is accepted by **<a href="https://iccv.thecvf.com/" style="background: linear-gradient(90deg, #007bff, #00cc99, #9933ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">ICCV 2025</a>**!
-- *2025.02*:  🎉🎉 Our paper HeMoRa (zh: 赫默拉) is accepted by **<a href="https://cvpr.thecvf.com/Conferences/2025" style="background: linear-gradient(90deg, #007bff, #00cc99, #9933ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">CVPR 2025</a>**!
+- *2025.07*: 🎉🎉 Invited by **CVlife** to share **TurboReg**! Replay on <a href="https://www.bilibili.com/video/BV1atbSzJEdv?t=158.1" style="background: linear-gradient(90deg, #007bff, #00cc99, #9933ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">Bilibili</a>.
+- *2025.06*:  🎉🎉 Our paper **TurboReg** is accepted by **<a href="https://iccv.thecvf.com/" style="background: linear-gradient(90deg, #007bff, #00cc99, #9933ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">ICCV 2025</a>**!
+- *2025.02*:  🎉🎉 Our paper **HeMoRa** (zh: 赫默拉) is accepted by **<a href="https://cvpr.thecvf.com/Conferences/2025" style="background: linear-gradient(90deg, #007bff, #00cc99, #9933ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">CVPR 2025</a>**!
 - *2024.11*:  🎉🎉 One paper is accepted by **<span style="background: linear-gradient(90deg, #007bff, #00cc99, #9933ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">RA-L 2024</span>**!
 - *2024.09*:  🎉🎉 One paper is accepted by <span style="background: linear-gradient(90deg, #007bff, #00cc99, #9933ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">TGRS 2024</span>!
 - *2024.07*:  🎉🎉 One paper is accepted by **<a href="https://eccv2024.ecva.net/" style="background: linear-gradient(90deg, #007bff, #00cc99, #9933ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">ECCV 2024</a>**!
