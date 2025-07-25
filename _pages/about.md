@@ -72,7 +72,7 @@ redirect_from:
 
 <!-- Information -->
 <a style="text-decoration: none; color: inherit;"><span style="background: linear-gradient(90deg, #ff7f50, #87cefa, #da70d6); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">TurboReg:</span></a>
-TurboClique for Robust and Efficient Point Cloud Registration [[PDF](https://arxiv.org/pdf/2507.01439)] [[CODE](https://github.com/Laka-3DV/TurboReg)] [[BIB](https://arxiv.org/bibtex/2507.01439)]
+TurboClique for Robust and Efficient Point Cloud Registration [[PDF](https://arxiv.org/pdf/2507.01439)] [[CODE](https://github.com/Laka-3DV/TurboReg)] [[BIB](https://arxiv.org/bibtex/2507.01439)] [[VIDEO]](https://www.bilibili.com/video/BV1atbSzJEdv?t=158.1)
 
 **Shaocheng Yan**,
 <a href="https://orcid.org/0000-0003-2504-9890" style="text-decoration: none; color: inherit;"><span>Pengcheng Shi</span></a>,
