@@ -1,0 +1,7 @@
+@inproceedings{yan2025hemora,
+  title={HeMoRa: Unsupervised Heuristic Consensus Sampling for Robust Point Cloud Registration},
+  author={Yan, Shaocheng and Wang, Yiming and Zhao, Kaiyan and Shi, Pengcheng and Zhao, Zhenjun and Zhang, Yongjun and Li, Jiayuan},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={1363--1373},
+  year={2025}
+}

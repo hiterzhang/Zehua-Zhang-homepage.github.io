@@ -1,0 +1,8 @@
+@inproceedings{yan2024ml,
+  title={ML-SemReg: Boosting point cloud registration with multi-level semantic consistency},
+  author={Yan, Shaocheng and Shi, Pengcheng and Li, Jiayuan},
+  booktitle={European Conference on Computer Vision},
+  pages={19--37},
+  year={2024},
+  organization={Springer}
+}

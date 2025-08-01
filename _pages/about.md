@@ -39,7 +39,7 @@ redirect_from:
  -->
 
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
 - **Master’s Student**, Wuhan University (Advisor: [Jiayuan Li](https://ljy-rs.github.io/web/))  
 - **Research**: Point Cloud Registration, Robust Estimation, Keypoint Matching
@@ -50,19 +50,67 @@ redirect_from:
 
 > Excited for collaboration opportunities — reach out if you have questions or want to explore!
 
-### 🔥 News
 
-- *2025.07*: 🎉🎉 Invited by **CVlife** to share **TurboReg**! Replay on <a href="https://www.bilibili.com/video/BV1atbSzJEdv?t=158.1" style="background: linear-gradient(90deg, #007bff, #00cc99, #9933ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">Bilibili</a>.
+## 🔥 News
+
+<!-- <ul style="list-style: disc; padding-left: 20px; line-height: 1.5; font-size: 15px;"> -->
+<ul style="list-style: disc; padding-left: 30px;">
+  <li>
+    <strong>2025.07</strong>: 🎉🎉 Invited by <strong>CVlife</strong> to share <strong>TurboReg</strong>!
+    Replay on 
+    <a href="https://www.bilibili.com/video/BV1atbSzJEdv?t=158.1" target="_blank" title="Replay on Bilibili">
+      <img src="https://img.shields.io/badge/-Bilibili-pink?logo=bilibili&logoColor=white" alt="Bilibili" height="20" style="vertical-align: text-bottom;">
+    </a>
+  </li>
+  <li>
+    <strong>2025.06</strong>: 🎉🎉 Our paper <strong>TurboReg</strong> is accepted by 
+    <a href="https://iccv.thecvf.com/" target="_blank" title="ICCV 2025">
+      <img src="https://img.shields.io/badge/-ICCV_2025-blue?logo=turbosquid&logoColor=white" alt="ICCV 2025" height="20" style="vertical-align: text-bottom;">
+    </a>
+  </li>
+  <li>
+    <strong>2025.02</strong>: 🎉🎉 Our paper <strong>HeMoRa</strong> (zh: 赫默拉) is accepted by 
+    <a href="https://cvpr.thecvf.com/Conferences/2025" target="_blank" title="CVPR 2025">
+      <img src="https://img.shields.io/badge/-CVPR_2025-green?logo=mural&logoColor=white" alt="CVPR 2025" height="20" style="vertical-align: text-bottom;">
+    </a>
+  </li>
+  <li>
+    <strong>2024.11</strong>: 🎉🎉 One paper is accepted by 
+    <img src="https://img.shields.io/badge/-RA--L_2024-orange?logo=robotframework&logoColor=white" alt="RA-L 2024" height="20" style="vertical-align: text-bottom;">
+  </li>
+  <li>
+    <strong>2024.09</strong>: 🎉🎉 One paper is accepted by 
+    <img src="https://img.shields.io/badge/-TGRS_2024-purple?logo=satellite&logoColor=white" alt="TGRS 2024" height="20" style="vertical-align: text-bottom;">
+  </li>
+</ul>
+
+<details style="margin-left: 20px;">
+  <summary style="cursor: pointer; font-weight: bold; margin-top: 10px;">Show More</summary>
+  <ul style="list-style: disc; padding-left: 11.5px;">
+    <li>
+      <strong>2024.07</strong>: 🎉🎉 One paper is accepted by 
+      <a href="https://eccv2024.ecva.net/" target="_blank" title="ECCV 2024">
+        <img src="https://img.shields.io/badge/-ECCV_2024-darkblue?logo=calendar&logoColor=white" alt="ECCV 2024" height="20" style="vertical-align: text-bottom;">
+      </a>
+    </li>
+    <li>
+      <strong>2024.07</strong>: 🎉🎉 My homepage is created!
+    </li>
+  </ul>
+</details>
+
+
+<!-- - *2025.07*: 🎉🎉 Invited by **CVlife** to share **TurboReg**! Replay on <a href="https://www.bilibili.com/video/BV1atbSzJEdv?t=158.1" style="background: linear-gradient(90deg, #007bff, #00cc99, #9933ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">Bilibili</a>.
 - *2025.06*:  🎉🎉 Our paper **TurboReg** is accepted by **<a href="https://iccv.thecvf.com/" style="background: linear-gradient(90deg, #007bff, #00cc99, #9933ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">ICCV 2025</a>**!
 - *2025.02*:  🎉🎉 Our paper **HeMoRa** (zh: 赫默拉) is accepted by **<a href="https://cvpr.thecvf.com/Conferences/2025" style="background: linear-gradient(90deg, #007bff, #00cc99, #9933ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">CVPR 2025</a>**!
 - *2024.11*:  🎉🎉 One paper is accepted by **<span style="background: linear-gradient(90deg, #007bff, #00cc99, #9933ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">RA-L 2024</span>**!
 - *2024.09*:  🎉🎉 One paper is accepted by <span style="background: linear-gradient(90deg, #007bff, #00cc99, #9933ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">TGRS 2024</span>!
 - *2024.07*:  🎉🎉 One paper is accepted by **<a href="https://eccv2024.ecva.net/" style="background: linear-gradient(90deg, #007bff, #00cc99, #9933ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">ECCV 2024</a>**!
 - *2024.07*:  🎉🎉 My homepage is created!
-
+ -->
 
 <!-- ### 📚 Publications  -->
-### 🖋️ First-Author Publications
+## 🖋️ First-Author Publications
 
 <!-- TurboReg -->
 <!-- Image -->
@@ -72,7 +120,21 @@ redirect_from:
 
 <!-- Information -->
 <a style="text-decoration: none; color: inherit;"><span style="background: linear-gradient(90deg, #ff7f50, #87cefa, #da70d6); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">TurboReg:</span></a>
-TurboClique for Robust and Efficient Point Cloud Registration [[PDF](https://arxiv.org/pdf/2507.01439)] [[CODE](https://github.com/Laka-3DV/TurboReg)] [[BIB](https://arxiv.org/bibtex/2507.01439)] [[VIDEO]](https://www.bilibili.com/video/BV1atbSzJEdv?t=158.1)
+TurboClique for Robust and Efficient Point Cloud Registration 
+
+<a href="https://arxiv.org/pdf/2507.01439" target="_blank" title="PDF">
+  <img src="https://img.shields.io/badge/-PDF-red?logo=gitbook&logoColor=white" alt="PDF" />
+</a>
+<a href="https://github.com/Laka-3DV/TurboReg" target="_blank" title="Code">
+  <img src="https://img.shields.io/badge/-Code-black?logo=github&logoColor=white" alt="Code" />
+</a>
+<a href="cola_bib/0004_turboreg.txt" target="_blank" title="BibTeX">
+  <img src="https://img.shields.io/badge/-BibTeX-blue?logo=latex&logoColor=white" alt="BibTeX" />
+</a>
+<a href="https://www.bilibili.com/video/BV1atbSzJEdv?t=158.1" target="_blank" title="Video">
+  <img src="https://img.shields.io/badge/-Video-pink?logo=bilibili&logoColor=white" alt="Video" />
+</a>
+
 
 **Shaocheng Yan**,
 <a href="https://orcid.org/0000-0003-2504-9890" style="text-decoration: none; color: inherit;"><span>Pengcheng Shi</span></a>,
@@ -99,8 +161,19 @@ TurboClique for Robust and Efficient Point Cloud Registration [[PDF](https://arx
 
 
 <!-- Information -->
-<a style="text-decoration: none; color: inherit;"><span style="background: linear-gradient(90deg, #ff7f50, #87cefa, #da70d6); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">HeMoRa:</span></a>
-Unsupervised Heuristic Consensus Sampling for Robust Point Cloud Registration  [[PDF]()] [[CODE](https://github.com/Laka-3DV/HeMoRa)] [[BIB](https://scholar.googleusercontent.com/scholar.bib?q=info:tjG9h2tNY34J:scholar.google.com/&output=citation&scisdr=ChZh9TUgAQPWeildyYkFYPqPEfhkkme8QVI:AAZF9b8AAAAAaGX_r1LJKSPvAWG5S6a6WVKMKv4&scisig=AAZF9b8AAAAAaGX_r6PIthz9uZJK1uTcii3gobM&scisf=4&ct=citation&cd=-1&hl=en)]
+<a style="text-decoration: none; color: inherit;"><span style="background: linear-gradient(90deg, #ff7f50, #87cefa, #da70d6); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">HeMoRa:</span></a> Unsupervised Heuristic Consensus Sampling for Robust Point Cloud Registration
+
+<a href="https://openaccess.thecvf.com/content/CVPR2025/html/Yan_HeMoRa_Unsupervised_Heuristic_Consensus_Sampling_for_Robust_Point_Cloud_Registration_CVPR_2025_paper.html" target="_blank" title="PDF">
+  <img src="https://img.shields.io/badge/-PDF-red?logo=gitbook&logoColor=white" alt="PDF" />
+</a>
+<a href="https://github.com/Laka-3DV/HeMoRa" target="_blank" title="Code">
+  <img src="https://img.shields.io/badge/-Code-black?logo=github&logoColor=white" alt="Code" />
+</a>
+<a href="./cola_bib/0003_hemora.txt" target="_blank" title="BibTeX">
+  <img src="https://img.shields.io/badge/-BibTeX-blue?logo=latex&logoColor=white" alt="BibTeX" />
+</a>
+
+
 
 
 **Shaocheng Yan**,
@@ -136,7 +209,17 @@ Computer Vision and Pattern Recognition -->
 <div class='paper-box-text' markdown="1">
 
 <a style="text-decoration: none; color: inherit;"><span style="background: linear-gradient(90deg, #ff7f50, #87cefa, #da70d6); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">ML-SemReg:</span></a>
-Boosting Point Cloud Registration with Multi-level Semantic Consistency [[PDF](https://arxiv.org/pdf/2407.09862)] [[CODE](https://github.com/Laka-3DV/ML-SemReg)] [[BIB](https://scholar.googleusercontent.com/scholar.bib?q=info:PcPA4MCDeisJ:scholar.google.com/&output=citation&scisdr=ChZh9TUgAQPWeildij_UWKX_IU6zTjBC1rk:AAZF9b8AAAAAaGX_7OQYEXyfMddul_FEzrkWTtY&scisig=AAZF9b8AAAAAaGX_7NAzXL36juNT2nrsHq9JKZQ&scisf=4&ct=citation&cd=-1&hl=en)]
+Boosting Point Cloud Registration with Multi-level Semantic Consistency 
+
+<a href="https://arxiv.org/pdf/2407.09862" target="_blank" title="PDF">
+  <img src="https://img.shields.io/badge/-PDF-red?logo=gitbook&logoColor=white" alt="PDF" />
+</a>
+<a href="https://github.com/Laka-3DV/ML-SemReg" target="_blank" title="Code">
+  <img src="https://img.shields.io/badge/-Code-black?logo=github&logoColor=white" alt="Code" />
+</a>
+<a href="./cola_bib/0002_ml_semreg.txt" target="_blank" title="BibTeX">
+  <img src="https://img.shields.io/badge/-BibTeX-blue?logo=latex&logoColor=white" alt="BibTeX" />
+</a>
 
 
 **Shaocheng Yan**, 
@@ -156,14 +239,15 @@ Boosting Point Cloud Registration with Multi-level Semantic Consistency [[PDF](h
 </div></div>
 
 
-### 🧩 Co-Authored Publications
+## 🧩 Co-Authored Publications
 
 
 <!-- TCF -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2024</div><img src='../paper_images/0002-ransac.png' alt="RANSAC Back to SOTA" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-RANSAC Back to SOTA: A Two-stage Consensus Filtering for Real-time 3D Registration [[PDF](https://arxiv.org/abs/2410.15682)] [[Code](https://github.com/ShiPC-AI/TCF)]
+RANSAC Back to SOTA: A Two-stage Consensus Filtering for Real-time 3D Registration 
+[[PDF](https://arxiv.org/abs/2410.15682)] [[Code](https://github.com/ShiPC-AI/TCF)]
 
 Pengcheng Shi, **Shaocheng Yan**, Yilin Xiao, Xinyi Liu, Yongjun Zhang, Jiayuan Li
 
@@ -186,7 +270,7 @@ IEEE Transactions on Geoscience and Remote Sensing
 
 
  
-### 🏆 Honors and Awards
+## 🏆 Honors and Awards
 
 - *2025.04*, **<span style="background: linear-gradient(90deg, #00ffff, #ff00ff, #0033ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">Outstanding Graduate</span>**, Class of 2025  
 - *2024.11*, **<span style="background: linear-gradient(90deg, #00ffff, #ff00ff, #0033ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">National Second Prize</span>**, China Graduate Mathematical Modeling Contest
@@ -194,6 +278,6 @@ IEEE Transactions on Geoscience and Remote Sensing
 - *2020.12*, **<span style="background: linear-gradient(90deg, #00ffff, #ff00ff, #0033ff); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">First Prize</span>**, 11th National College Student Mathematics Competition (Non-Math Major Category)
 
 
-### 🎓 Educations
+## 🎓 Educations
 - *2023.09 - Present*, M.S. in Geomatics Engineering, School of Remote Sensing and Information Engineering, Wuhan University
 - *2019.09 - 2023.06*, B.S. in Artificial Intelligence, School of Electronic and Information Engineering, Southwest Jiaotong University

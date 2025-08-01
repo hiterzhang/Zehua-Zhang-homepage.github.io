@@ -1,0 +1,6 @@
+@article{yan2025turboreg,
+  title={TurboReg: TurboClique for Robust and Efficient Point Cloud Registration},
+  author={Yan, Shaocheng and Shi, Pengcheng and Zhao, Zhenjun and Wang, Kaixin and Cao, Kuang and Wu, Ji and Li, Jiayuan},
+  journal={arXiv preprint arXiv:2507.01439},
+  year={2025}
+}
