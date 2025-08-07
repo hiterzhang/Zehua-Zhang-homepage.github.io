@@ -64,35 +64,35 @@ redirect_from:
   </li>
   <li>
     <strong>2025.06</strong>: 🎉🎉 Our paper <strong>TurboReg</strong> is accepted by 
-    <a href="https://iccv.thecvf.com/" target="_blank" title="ICCV 2025">
-      <img src="https://img.shields.io/badge/-ICCV_2025-blue?logo=turbosquid&logoColor=white" alt="ICCV 2025" height="20" style="vertical-align: text-bottom;">
+    <a href="https://iccv.thecvf.com/Conferences/2025" target="_blank" title="ICCV 2025">
+      <img src="https://img.shields.io/badge/-ICCV_2025-blue?logo=&logoColor=white" alt="ICCV 2025" height="20" style="vertical-align: text-bottom;">
     </a>
   </li>
   <li>
     <strong>2025.02</strong>: 🎉🎉 Our paper <strong>HeMoRa</strong> (zh: 赫默拉) is accepted by 
     <a href="https://cvpr.thecvf.com/Conferences/2025" target="_blank" title="CVPR 2025">
-      <img src="https://img.shields.io/badge/-CVPR_2025-green?logo=mural&logoColor=white" alt="CVPR 2025" height="20" style="vertical-align: text-bottom;">
+      <img src="https://img.shields.io/badge/-CVPR_2025-green?logo=&logoColor=white" alt="CVPR 2025" height="20" style="vertical-align: text-bottom;">
     </a>
   </li>
   <li>
     <strong>2024.11</strong>: 🎉🎉 One paper is accepted by 
-    <img src="https://img.shields.io/badge/-RA--L_2024-orange?logo=robotframework&logoColor=white" alt="RA-L 2024" height="20" style="vertical-align: text-bottom;">
+    <img src="https://img.shields.io/badge/-RA--L_2024-orange?logo=&logoColor=white" alt="RA-L 2024" height="20" style="vertical-align: text-bottom;">
   </li>
   <li>
     <strong>2024.09</strong>: 🎉🎉 One paper is accepted by 
-    <img src="https://img.shields.io/badge/-TGRS_2024-purple?logo=satellite&logoColor=white" alt="TGRS 2024" height="20" style="vertical-align: text-bottom;">
+    <img src="https://img.shields.io/badge/-TGRS_2024-purple?logo=&logoColor=white" alt="TGRS 2024" height="20" style="vertical-align: text-bottom;">
+  </li>
+  <li>
+    <strong>2024.07</strong>: 🎉🎉 One paper is accepted by 
+    <a href="https://eccv2024.ecva.net/Conferences/2024" target="_blank" title="ECCV 2024">
+      <img src="https://img.shields.io/badge/-ECCV_2024-darkblue?logo=&logoColor=white" alt="ECCV 2024" height="20" style="vertical-align: text-bottom;">
+    </a>
   </li>
 </ul>
 
 <details style="margin-left: 20px;">
   <summary style="cursor: pointer; font-weight: bold; margin-top: 10px;">Show More</summary>
   <ul style="list-style: disc; padding-left: 11.5px;">
-    <li>
-      <strong>2024.07</strong>: 🎉🎉 One paper is accepted by 
-      <a href="https://eccv2024.ecva.net/" target="_blank" title="ECCV 2024">
-        <img src="https://img.shields.io/badge/-ECCV_2024-darkblue?logo=calendar&logoColor=white" alt="ECCV 2024" height="20" style="vertical-align: text-bottom;">
-      </a>
-    </li>
     <li>
       <strong>2024.07</strong>: 🎉🎉 My homepage is created!
     </li>
