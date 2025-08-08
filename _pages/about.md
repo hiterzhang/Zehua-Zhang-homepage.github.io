@@ -56,7 +56,18 @@ redirect_from:
 <!-- <ul style="list-style: disc; padding-left: 20px; line-height: 1.5; font-size: 15px;"> -->
 <ul style="list-style: disc; padding-left: 30px;">
   <li>
-    <strong>2025.07</strong>: 🎉🎉 Invited by <strong>CVlife</strong> to share <strong>TurboReg</strong>!
+    <strong>2025.08</strong>: 🎉🎉 Invited by <strong>
+      <a href="https://space.bilibili.com/483478083" target="_blank" title="3DCVer Bilibili Space">3DCVer</a>
+    </strong> to share <strong>TurboReg</strong>!
+    Replay on 
+    <a href="https://www.bilibili.com/video/BV1mNtmzaEKP?t=17" target="_blank" title="Replay on Bilibili">
+      <img src="https://img.shields.io/badge/-Bilibili-pink?logo=bilibili&logoColor=white" alt="Bilibili" height="20" style="vertical-align: text-bottom;">
+    </a>
+  </li>
+  <li>
+    <strong>2025.07</strong>: 🎉🎉 Invited by <strong> 
+      <a href="https://space.bilibili.com/45189691" target="_blank" title="3DCVer Bilibili Space">CVlife</a>
+    </strong> to share <strong>TurboReg</strong>!
     Replay on 
     <a href="https://www.bilibili.com/video/BV1atbSzJEdv?t=158.1" target="_blank" title="Replay on Bilibili">
       <img src="https://img.shields.io/badge/-Bilibili-pink?logo=bilibili&logoColor=white" alt="Bilibili" height="20" style="vertical-align: text-bottom;">
@@ -131,8 +142,11 @@ TurboClique for Robust and Efficient Point Cloud Registration
 <a href="cola_bib/0004_turboreg.txt" target="_blank" title="BibTeX">
   <img src="https://img.shields.io/badge/-BibTeX-blue?logo=latex&logoColor=white" alt="BibTeX" />
 </a>
-<a href="https://www.bilibili.com/video/BV1atbSzJEdv?t=158.1" target="_blank" title="Video">
-  <img src="https://img.shields.io/badge/-Video-pink?logo=bilibili&logoColor=white" alt="Video" />
+<a href="https://www.bilibili.com/video/BV1atbSzJEdv?t=158.1" target="_blank" title="Video1">
+  <img src="https://img.shields.io/badge/-CVlife-pink?logo=bilibili&logoColor=white" alt="Video1" />
+</a>
+<a href="https://www.bilibili.com/video/BV1mNtmzaEKP?t=17" target="_blank" title="Video2">
+  <img src="https://img.shields.io/badge/-3DCVer-pink?logo=bilibili&logoColor=white" alt="Video" />
 </a>
 
 
