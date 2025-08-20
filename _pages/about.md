@@ -42,7 +42,7 @@ redirect_from:
 ## 🧑‍💻 About Me
 
 - **Master’s Student**, Wuhan University  
-- **Advisor**: [Jiayuan Li](https://ljy-rs.github.io/web/)  
+- **Advisor**: Prof. [Jiayuan Li](https://ljy-rs.github.io/web/)  
 - **Research**: Point Cloud Registration, Robust Estimation, Keypoint Matching
 <!-- SLAM, 3D reconstruction, -->
 <!-- pose estimation -->
