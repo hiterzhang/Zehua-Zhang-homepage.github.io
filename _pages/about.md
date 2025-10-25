@@ -25,7 +25,7 @@ redirect_from:
 - **Research**: Visual-Inertial Odometry, Pose Estimation, Simultaneous Localization and Mapping
 <!-- SLAM, 3D reconstruction, -->
 <!-- pose estimation -->
-- **Contact**: [2221306622@qq.com]
+- **Contact**: [2221306922@qq.com]
 <!-- - **Open to collaboration** -->
 
 > Excited for collaboration opportunities — reach out if you have questions or want to explore!
