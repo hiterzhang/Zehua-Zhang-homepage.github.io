@@ -21,7 +21,7 @@ redirect_from:
 # 🧑‍💻 About Me
 
 - **Master’s Student**, National University of Defense University  
-- **Advisor**: A.Prof. Chen Fan   Prof. Lilian Zhang
+- **Advisor**: A.Prof. Chen Fan and Prof. Lilian Zhang
 - **Research**: Visual-Inertial Odometry, Pose Estimation, Simultaneous Localization and Mapping
 <!-- SLAM, 3D reconstruction, -->
 <!-- pose estimation -->
